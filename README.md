@@ -18,7 +18,7 @@ du module Introduction au Développement Android (TP Mobile 2025/2026)
 - **Langage** : Java
 - **Persistance** : Room (SQLite)
 - **UI** : RecyclerView, CardView, FloatingActionButton
-- **Architecture** : MVC — séparation Model / View / Controller
+- **Architecture** : MVC - séparation Model / View / Controller
 - **Min SDK** : API 21 (Android 5.0)
 
 ## Équipe
