@@ -1,6 +1,6 @@
-# -notes-manager-android
+# notes-manager-android
 Application Android de gestion de notes personnelles.
-# 📝 Gestionnaire de Notes — Android Java
+# Gestionnaire de Notes - Android Java
 
 Application mobile Android développée dans le cadre de l'examen final
 du module Introduction au Développement Android (TP Mobile 2025/2026)
